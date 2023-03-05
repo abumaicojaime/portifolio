@@ -1,2 +1,2 @@
 # portifolio
-informacoes sobre mim e e de contacto
+pagina html com informacoes sobre mim e contacto
